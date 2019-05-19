@@ -1,4 +1,4 @@
-# Techno-San-Diego
+# Techno-San-Diego and NCCC Norwood
 
 Credit goes to Alex Brignoni and Chris Weber for the Usage scripts
 
